@@ -1,9 +1,9 @@
 ---
-title: "Homework 8: Graphics"
+title: "Homework: Graphics with Banknotes"
+execute:
+  error: true
 author: "Your Name"
-format:
-  html:
-    theme: default
+output: html_document
 ---
 
 
